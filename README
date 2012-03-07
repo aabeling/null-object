@@ -8,3 +8,5 @@ NullSafe class.
 
 This class uses the cglib to create a proxy.
 
+Please see the NullSafeTest to get an idea how it is used.
+
