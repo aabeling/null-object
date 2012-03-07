@@ -2,3 +2,9 @@ Implementation of the null object design pattern in java.
 
 See http://en.wikipedia.org/wiki/Null_Object_pattern for an explanation of the pattern.
 
+The idea for the implementation is taken from EasyMock.
+Null safe objects can be created using static methods of the
+NullSafe class.
+
+This class uses the cglib to create a proxy.
+
