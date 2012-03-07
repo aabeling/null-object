@@ -1,0 +1,4 @@
+Implementation of the null object design pattern in java.
+
+See http://en.wikipedia.org/wiki/Null_Object_pattern for an explanation of the pattern.
+
